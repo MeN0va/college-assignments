@@ -1,3 +1,0 @@
-int& back() {
-        return data[size - 1];
-    }
